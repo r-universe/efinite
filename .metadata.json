@@ -1,0 +1,14 @@
+[
+  {
+    "package": "utile.tables",
+    "oncran": true
+  },
+  {
+    "package": "utile.tools",
+    "oncran": true
+  },
+  {
+    "package": "utile.visuals",
+    "oncran": true
+  }
+]
