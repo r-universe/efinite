@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "utile.tables"]
-	path = utile.tables
-	url = https://github.com/efinite/utile.tables
+[submodule "utile.visuals"]
+	path = utile.visuals
+	url = https://github.com/efinite/utile.visuals
 	shallow = true
 	registered = true
 [submodule "utile.tools"]
@@ -13,8 +13,8 @@
 	url = https://github.com/efinite/utile.tools
 	shallow = true
 	registered = true
-[submodule "utile.visuals"]
-	path = utile.visuals
-	url = https://github.com/efinite/utile.visuals
+[submodule "utile.tables"]
+	path = utile.tables
+	url = https://github.com/efinite/utile.tables
 	shallow = true
 	registered = true
